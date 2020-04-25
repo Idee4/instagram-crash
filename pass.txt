@@ -13,7 +13,7 @@ abaikan
 abaimana
 abak
 abaka
-abaktinal
+abaktina
 abakus
 aban
 abang
@@ -28341,7 +28341,8 @@ kuundang
 kuwait
 kuwalat
 kuwu
-kuwuk
+y286e549
+
 kuwung
 kuwur
 kuya
@@ -28355,7 +28356,7 @@ kwa
 kwan
 kwar
 kwart
-kwartet
+y2863549
 kwartir
 kwasiorkor
 kwe
